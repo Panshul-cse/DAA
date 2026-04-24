@@ -1,0 +1,26 @@
+[
+  {
+    "roll_number": 23,
+    "name": "Panshul",
+    "course": "jbwef",
+    "cgpa": 234.0
+  },
+  {
+    "roll_number": 41,
+    "name": "panshull",
+    "course": "cse",
+    "cgpa": 9.8
+  },
+  {
+    "roll_number": 72,
+    "name": "ewr",
+    "course": "zdf",
+    "cgpa": 51.0
+  },
+  {
+    "roll_number": 74,
+    "name": "Panshul",
+    "course": "vvtech",
+    "cgpa": 7.5
+  }
+]

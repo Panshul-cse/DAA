@@ -1,0 +1,26 @@
+[
+  {
+    "roll_number": 101,
+    "name": "Alice Johnson",
+    "course": "Computer Science",
+    "cgpa": 3.8
+  },
+  {
+    "roll_number": 102,
+    "name": "Eve Wilson",
+    "course": "Biology",
+    "cgpa": 3.5
+  },
+  {
+    "roll_number": 103,
+    "name": "Charlie Brown",
+    "course": "Physics",
+    "cgpa": 3.9
+  },
+  {
+    "roll_number": 107,
+    "name": "Diana Prince",
+    "course": "Chemistry",
+    "cgpa": 3.7
+  }
+]
