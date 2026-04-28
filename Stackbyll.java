@@ -66,4 +66,3 @@ public class Stackbyll{
 		System.out.println(s.pop());
 		System.out.println(s.peek());
 	}
-}
